@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k-art-i-k
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science , ML related projects
+- 🌱 I’m currently Working as Machine Learning Engineer in USA based Real Estate startup.
+- 💞️ I’m Cool!
 - 📫 How to reach me :gmail-kartikksharma1999@gmail.com
 
 <!---
